@@ -26,12 +26,12 @@ I’ve completed the CompTIA Data+ certification and am building projects that s
 
 ⸻
 
-3. Logistics data project
+3. Logistics data analysis
 
 🔗 View Project (Coming Soon)
 	•	Tools: Excel, SQL, Power BI
 	•	Based on real-world logistics experience.
-	•	Planned project exploring logistics datasets to highlight operational inefficiencies and asset tracking challenges. This will showcase data wrangling, reconciliation, and insight generation using Excel, Power BI
+	•	Exploring logistics datasets to track asset movements, analyse inefficiencies, and recommend process improvements using Excel, SQL, and Power BI
 
 ⸻
 
