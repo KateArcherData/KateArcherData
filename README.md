@@ -26,12 +26,12 @@ I’ve completed the CompTIA Data+ certification and am building projects that s
 
 ⸻
 
-3. Pallet Audit & Loss Analysis
+3. Logistics data project
 
 🔗 View Project (Coming Soon)
 	•	Tools: Excel, SQL, Power BI
 	•	Based on real-world logistics experience.
-	•	Identifies pallet losses, tracks trends, and suggests process improvements.
+	•	Planned project exploring logistics datasets to highlight operational inefficiencies and asset tracking challenges. This will showcase data wrangling, reconciliation, and insight generation using Excel, Power BI
 
 ⸻
 
