@@ -13,12 +13,12 @@ I hold the CompTIA Data+ certification and I’m building a portfolio of project
 
 1. Football Analytics Dashboard (Coventry City 24/25)
 • Tools: Excel
-• Interactive dashboard analysing football performance data, tracking goals, match results, and trends across the season. Provides quick insights into team and player performance.
+• Interactive dashboard analysing football performance data, tracking goals, match results, and trends across the season. Provides quick insights into team performance.
 👉 [View Project](https://github.com/KateArcherData/football-dashboard)
 
 2. Customer Churn Analysis (Telco Dataset)
 • Tools: Excel
-• Cleaned and analysed telecom churn data to uncover drivers of customer attrition. Created visualisations and a Power BI dashboard to highlight revenue impact and retention opportunities.
+• Cleaned and analysed telecom churn data to uncover drivers of customer attrition. Created visualisations and a Excel dashboard to highlight revenue impact and retention opportunities.
 👉 [View Project](https://github.com/KateArcherData/Telco-Churn-Dashboard) 
 
 3. Logistics Data Analysis
