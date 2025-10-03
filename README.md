@@ -1,53 +1,41 @@
 📊 Kate Archer – Data Analytics Portfolio
 
-👋 Hi, I’m Kate Archer, an aspiring Data Analyst with 16 years of experience in customer account management. I specialise in transforming raw data into actionable insights using Excel, Power BI, SQL, and Python.
+👋 Hi, I’m Kate Archer
 
-I’ve completed the CompTIA Data+ certification and am building projects that showcase both my technical skills and my ability to solve real-world business problems.
+I’m an aspiring Data Analyst with over 15 years of experience in customer account management.
+I specialise in transforming raw data into clear, actionable insights using Excel, Power BI, SQL, and Python.
 
-⸻
-
-🚀 Featured Projects
-
-1. Customer Churn Dashboard (Telco Dataset)
-
-🔗 View Project
-	•	Tools: Excel, DAX
-	•	Built an interactive dashboard analysing customer churn.
-	•	Highlights revenue impact, churn drivers, and customer segments.
+I hold the CompTIA Data+ certification and I’m building a portfolio of projects that demonstrate my ability to analyse, visualise, and present data to solve real-world business problems.
 
 ⸻
 
-2. Football Analytics Dashboard (Coventry City 24/25)
+📂 Featured Projects
 
-🔗 View Project
-	•	Tools: Excel, DAX
-	•	Visualises team performance, cumulative points, and match statistics.
-	•	Demonstrates use of data storytelling to engage sports fans.
+1. Football Analytics Dashboard (Coventry City 24/25)
+• Tools: Excel
+• Interactive dashboard analysing football performance data, tracking goals, match results, and trends across the season. Provides quick insights into team and player performance.
+👉 [View Project](https://github.com/KateArcherData/football-dashboard)
 
-⸻
+2. Customer Churn Analysis (Telco Dataset)
+• Tools: Excel
+• Cleaned and analysed telecom churn data to uncover drivers of customer attrition. Created visualisations and a Power BI dashboard to highlight revenue impact and retention opportunities.
+👉 [View Project](https://github.com/KateArcherData/Telco-Churn-Dashboard) 
 
-3. Logistics data analysis
-
-🔗 View Project (Coming Soon)
-	•	Tools: Excel, SQL, Power BI
-	•	Based on real-world logistics experience.
-	•	Exploring logistics datasets to track asset movements, analyse inefficiencies, and recommend process improvements using Excel, SQL, and Power BI
-
-⸻
+3. Logistics Data Analysis
+• Tools: Excel, SQL, Power BI
+• Exploring supply chain datasets to track asset movements, analyse inefficiencies, and recommend process improvements.
+👉 View Project (Coming Soon)
 
 4. SQL Portfolio
-
-🔗 View Project (Coming Soon)
 	•	A collection of SQL queries and solutions using sample datasets.
 	•	Covers joins, CTEs, window functions, and business queries.
-
-⸻
+👉 View Project (Coming Soon)
 
 5. Python Data Cleaning & Visualisation
 
-🔗 View Project (Coming Soon)
 	•	Jupyter notebooks demonstrating Python for cleaning messy datasets.
 	•	Includes pandas, matplotlib, and seaborn for analysis & charts.
+👉 View Project (Coming Soon)
 
 ⸻
 
