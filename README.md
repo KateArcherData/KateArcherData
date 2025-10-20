@@ -21,17 +21,22 @@ I hold the CompTIA Data+ certification and I’m building a portfolio of project
 • Cleaned and analysed telecom churn data to uncover drivers of customer attrition. Created visualisations and a Excel dashboard to highlight revenue impact and retention opportunities.
 👉 [View Project](https://github.com/KateArcherData/Telco-Churn-Dashboard) 
 
-3. Logistics Data Analysis
-• Tools: Excel, SQL, Power BI
-• Exploring supply chain datasets to track asset movements, analyse inefficiencies, and recommend process improvements.
-👉 View Project (Coming Soon)
+3. Pallet Tracking Dashboard
+• Tools: Power BI, DAX, Power Query
+• An operational dashboard tracking pallet movements between sites and customers to reduce losses. Highlights discrepancies, balances and trends through visual KPIs and conditional formatting.
+👉 [View Project](https://github.com/KateArcherData/Pallet-Tracking-Dashboard)
 
-4. SQL Portfolio
+5. Logistics Performance Dashboard
+• Tools: Power BI, DAX, Excel
+•  A multi page Power BI dashboard analysing shipment efficiency, delivery performance, and cost by region and carrier. Includes dynamic text visuals, KPI cards, and advanced DAX measures using variables and ranking logic.
+👉 [View Project](https://github.com/KateArcherData/Logistics_Performance_Dashboard)
+
+7. SQL Portfolio
 	•	A collection of SQL queries and solutions using sample datasets.
 	•	Covers joins, CTEs, window functions, and business queries.
 👉 View Project (Coming Soon)
 
-5. Python Data Cleaning & Visualisation
+8. Python Data Cleaning & Visualisation
 
 	•	Jupyter notebooks demonstrating Python for cleaning messy datasets.
 	•	Includes pandas, matplotlib, and seaborn for analysis & charts.
